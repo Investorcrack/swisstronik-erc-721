@@ -1,6 +1,6 @@
 # swisstronik-erc-721
 
-This project sets up a Hardhat environment to deploy and interact with an ERC-721 (NFT) contract on the Swisstronik testnet. Follow the steps below to get started.
+This project sets up a Hardhat environment to deploy and interact with an ERC-721 (NFT) contract on the Swisstronik testnet. Follow the steps below to get started..
 
 ## Prerequisites
 
